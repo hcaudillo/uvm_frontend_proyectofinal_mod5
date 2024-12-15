@@ -1,0 +1,14 @@
+    {
+        imagen1: 'salados1.png',
+        nombre1:  'Mezcla de Cacahuate',
+        descripcion1: ' Deliciosa mezcla de cacahuate japones, salado, enchilado y chicharos. Todo muy crujiente.',
+        imagen2: 'enchilados1.png',
+        nombre2:  'Cacahuate Enchilado',
+        descripcion2: 'Delicioso y crujiente cacahuate tostado y enchilado.',
+        imagen3: 'charola1.png',
+        nombre3:  'Charola 1',
+        descripcion3: 'Deliciosa variedad de fruta picada, dulces, cacahuate japones, cacahuate salado, papas adobadas, panditas. ',
+        imagen4: 'combo1.png',
+        nombre4:  'Combo 1',
+        descripcion4: 'Combo único. Tripleta de botanas sabritas y unas muy frias cervezas. ',
+    }
